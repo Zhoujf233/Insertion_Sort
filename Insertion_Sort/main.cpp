@@ -9,7 +9,6 @@
 #include <iostream>
 using namespace std;
 
-//插入排序
 //void insertion_sort(int* arr,int size)
 //{
 //    int i,j,temp;
@@ -24,6 +23,7 @@ using namespace std;
 //    }
 //}
 
+//插入排序
 //void insertion_sort(int* arr, int size)
 //{
 //    int i, j, k;
